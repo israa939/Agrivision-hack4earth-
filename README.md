@@ -48,12 +48,18 @@ The CNN is trained on labeled crop image datasets for accurate disease detection
    - Click the green **Code** button on GitHub and select **Download ZIP**.  
    - Extract the ZIP file on your computer.
 
-2. **Open in Google Colab:**  
+2. **Download the Dataset:**  
+   - Go to the [New Plant Diseases Dataset on Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset?resource=download)  
+   - Download the dataset and extract it.  
+   - Place the dataset folder inside your project directory (e.g., `AgriVision/dataset`).
+
+3. **Open in Google Colab:**  
    - Go to [Google Colab](https://colab.research.google.com/).  
    - Click **File → Upload notebook** or **File → Open notebook → Upload** to open your `.ipynb` file from the extracted folder.
 
-3. **Run the Notebook:**  
+4. **Run the Notebook:**  
    - Make sure all dependencies are installed (Colab usually has Python libraries like TensorFlow, Pandas, and NumPy pre-installed).  
    - Run the notebook cells to train and test the model.
+
 
 
